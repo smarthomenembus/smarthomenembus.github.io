@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://smarthomenembus.github.io/sitemap.xml
