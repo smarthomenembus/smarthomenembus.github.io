@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>support on YZKJ - Smart Home</title>
+    <link>https://nembus.github.io/tags/support/</link>
+    <description>Recent content in support on YZKJ - Smart Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Oct 2021 08:35:00 +0000</lastBuildDate><atom:link href="https://nembus.github.io/tags/support/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Direct-to-Consumer Shipping And Tax Invoice , Tax Remittance &amp;&amp; About limitation of personal identity information and Incident response plan</title>
+      <link>https://nembus.github.io/post/2021-10-26-data-usage-instructions/</link>
+      <pubDate>Mon, 25 Oct 2021 08:35:00 +0000</pubDate>
+      
+      <guid>https://nembus.github.io/post/2021-10-26-data-usage-instructions/</guid>
+      <description>1、about Direct-to-Consumer Shipping Our company has the use scenario of MFN, which needs to deliver goods directly to consumers. On the other hand, it is convenient for inventory allocation and management. The specific processes of shipment marking and logistics sending are as follows:
+After confirming the delivery information of the order and the detailed information of the package, such as type, weight, size and delivery date, label and package the goods according to the distribution method and carrier.</description>
+    </item>
+    
+  </channel>
+</rss>
